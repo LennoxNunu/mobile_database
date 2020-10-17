@@ -1,16 +1,17 @@
 # mobile_database
 
-A new Flutter project.
+Our mobile devices are very portable, carry sensitive information and  help make our lives simple. This project is inspired by the idea of running a paperless system in hospitals. We have developed a doctors application used to store patient files.
 
-## Getting Started
+## Contributors
 
-This project is a starting point for a Flutter application.
+Lennox Y Nunu <lennoxnunu@gmail.com>
 
-A few resources to get you started if this is your first Flutter project:
+### Special thanks to the following developers 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+For a detailed explanation on how the state of this app is managed, please refer  back to Dane Mackier. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ https://www.filledstacks.com/post/flutter-state-management-with-stacked/ 
+
+For a detailed explanation on the App database. Please refer back to Simon Binder
+ 
+ https://moor.simonbinder.eu/docs/getting-started/
