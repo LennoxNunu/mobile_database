@@ -3,6 +3,7 @@ import 'package:mobile_database/app/locator.dart';
 import 'package:mobile_database/app/router.gr.dart';
 import 'package:stacked_services/stacked_services.dart';
 
+// Visual Studio Code extension - use dart and flutter 3.14.1
 void main() {
   setupLocator();
   runApp(MyApp());
